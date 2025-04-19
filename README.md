@@ -5,12 +5,12 @@ Spotify is a leading music streaming service that provides millions of tracks to
 ## The Goal
 To provide a comprehensive solution that enables Spotify’s leadership to make informed decisions on revenue growth, user engagement, and cost optimization.
 ## Key Points and Insights
-To meet Mark’s requirements, who is Director of Revenue, we created a visualization titled "Change of Total Revenue (Premium Revenue, Profit, etc.) over time." This visualization shows a positive trend over the years.
+- **To meet Mark’s requirements, who is Director of Revenue, we created a visualization titled "Change of Total Revenue (Premium Revenue, Profit, etc.) over time." This visualization shows a positive trend over the years.**
 Total revenue increased from $902 in 2017 to $3,166 in 2023. Premium revenue has also shown a strong positive trend since 2017.
 Ad revenue fluctuates the most over the years but still maintains a positive long-term trend.
 Ad Cost of Revenue stands at $5,042, directly impacting profitability.
-Ad Revenue Efficiency is below 1 in some quarters, such as Q1 2023 (0.97), indicating that costs exceed revenues—therefore, optimization is necessary to achieve positive returns.
-- **Recommendations**:
+Ad Revenue Efficiency is below 1 in some quarters, such as Q1 2023 (0.97), indicating that costs exceed revenues—therefore, optimization is necessary to achieve positive returns.<br>
+- Recommendations:
 Increase ad frequency (e.g., more ads per hour) without losing users.
 Conduct A/B testing to compare longer vs. shorter ads and find optimal formats for revenue growth.
 Reduce costs and improve efficiency.
@@ -24,8 +24,8 @@ In Q1 2023, ARPU was 4, indicating a slight decline compared to previous years.
 Premium strategy adjustments are advised—consider regional price increases where appropriate and introduce additional features for higher-tier subscription plans.
 - **User Growth Trends (for Sarah, Head of Strategy)**
 Sarah focuses on long-term growth and strategic alignment. She is interested in user growth trends, particularly among Premium and ad-supported users, to shape future strategies.
-The "MAUs over time" chart shows a clear upward trend in Monthly Active Users (MAUs) from 2017 to 2023, with average values significantly exceeded in recent years.
-- **Recommendations for Sarah:**
+The "MAUs over time" chart shows a clear upward trend in Monthly Active Users (MAUs) from 2017 to 2023, with average values significantly exceeded in recent years.<br>
+- Recommendations for Sarah:
 Investigate which marketing campaigns or product improvements contributed most to MAU growth—this will require additional data collection.
 Ad MAUs are growing faster than Premium MAUs, indicating a user preference for the free version, likely due to lower willingness to pay initially.
 Despite the larger number of Ad MAUs, Premium MAUs generate significantly more revenue.
