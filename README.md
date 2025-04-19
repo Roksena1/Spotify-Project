@@ -5,7 +5,7 @@ Spotify is a leading music streaming service that provides millions of tracks to
 ## The Goal
 To provide a comprehensive solution that enables Spotify’s leadership to make informed decisions on revenue growth, user engagement, and cost optimization.
 ## Key Points and Insights
-To meet Mark’s requirements, we created a visualization titled "Change of Total Revenue (Premium Revenue, Profit, etc.) over time." This visualization shows a positive trend over the years.
+To meet Mark’s requirements, who is Director of Revenue, we created a visualization titled "Change of Total Revenue (Premium Revenue, Profit, etc.) over time." This visualization shows a positive trend over the years.
 Total revenue increased from $902 in 2017 to $3,166 in 2023. Premium revenue has also shown a strong positive trend since 2017.
 Ad revenue fluctuates the most over the years but still maintains a positive long-term trend.
 Ad Cost of Revenue stands at $5,042, directly impacting profitability.
