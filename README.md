@@ -47,3 +47,5 @@ To cut administrative costs:
 Implement process automation, such as AI-driven automation in customer support and internal workflows.
 ## Links to Files
 - [Tableau Public Visualization](https://public.tableau.com/views/SpotifyProjekt2016-2023/Dashboard42?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Project Plan](https://www.notion.so/Project-Plan-1da8295c2e5a80199d18faba7af7bde1?pvs=4)
+
