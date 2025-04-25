@@ -2,7 +2,7 @@
 ## Project Description
 Spotify is a leading music streaming service that provides millions of tracks to users worldwide. The company operates with two models: a free model and a premium model, offering both ad-supported and premium subscription services.
 ## Used Tools (Excel, Tableau)
-## The Goal
+## Goal
 To provide a comprehensive solution that enables Spotify’s leadership to make informed decisions on revenue growth, user engagement, and cost optimization.
 ## Key Points and Insights
 - **To meet Mark’s requirements, who is Director of Revenue**, we created a visualization titled "Change of Total Revenue (Premium Revenue, Profit, etc.) over time." This visualization shows a positive trend over the years.
